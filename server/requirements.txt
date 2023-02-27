@@ -1,0 +1,9 @@
+flask
+pytest
+selenium
+flask_cors
+pandas
+numpy
+nltk
+gensim
+scikit-learn
